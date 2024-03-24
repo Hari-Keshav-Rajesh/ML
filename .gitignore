@@ -1,0 +1,4 @@
+# Exclude directories
+CV/cv-course-models
+CV/carORtruck/train
+CV/carORtruck/valid
